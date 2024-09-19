@@ -15,7 +15,8 @@ LoL Vision is a computer vision project that seamlessly integrates with League o
 
 
 <img src="https://github.com/Shinobu-Kazahana/lol-vision/raw/main/gif.gif" alt="Tracking in League" width="1000"/>
-## 📚 Table of Contents
+
+### 📚 Table of Contents
 
 - [🛠️ Technologies Used](#️-technologies-used)
 - [🌟 Key Features](#-key-features)
