@@ -8,12 +8,14 @@
 <p align="center">
   <img src="https://github.com/Shinobu-Kazahana/lol-vision/raw/main/lol-vision-logo.webp" alt="LoL Vision Logo" width="200"/>
 </p>
-![Description of the GIF](https://github.com/Shinobu-Kazahana/lol-vision/raw/main/gif.gif)
+
 
 ## 🚀 Elevating League of Legends with Computer Vision
 
-LoL Vision is a computer vision project that seamlessly integrates with League of Legends, providing detection and tracking of player characters. By leveraging the power of Electron, Node.js, and machine learning techniques.View video to see it running smoothly. If i could improve it I would say in needs to be faster, locally running model can take inputs quickly but the screenshot capture is slow ~700ms and needs to be fixed. 
+LoL Vision is a computer vision project that seamlessly integrates with League of Legends, providing detection and tracking of player characters. By leveraging the power of Electron, Node.js, and machine learning techniques. **View video to see it running smoothly**. If i could improve it I would say in needs to be faster, locally running model can take inputs quickly but the screenshot capture is slow ~700ms and needs to be fixed. 
 
+
+<img src="https://github.com/Shinobu-Kazahana/lol-vision/raw/main/gif.gif" alt="Description of the GIF" width="1000"/>
 
 :video_camera: [Video Example](video.mp4)
 
