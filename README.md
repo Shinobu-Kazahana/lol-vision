@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 <p align="center">
-  <img src="https://github.com/Shinobu-Kazahana/lol-vision/raw/main/lol-vision-logo.webp" alt="LoL Vision Logo" width="400"/>
+  <img src="https://github.com/Shinobu-Kazahana/lol-vision/raw/main/lol-vision-logo.webp" alt="LoL Vision Logo" width="200"/>
 </p>
 
 ## 🚀 Elevating League of Legends with Computer Vision
