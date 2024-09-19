@@ -133,7 +133,6 @@ This snippet demonstrates the core functionality of LoL Vision, showcasing effic
 To further enhance the speed and efficiency of LoL Vision, I've implemented several key optimizations:
 
 - 🧠 **Caching Mechanism**: Implemented a smart caching system for frequently accessed data, reducing redundant computations.
-- 🔄 **Parallel Processing**: Utilized Node.js worker threads to parallelize image processing tasks, significantly reducing overall processing time.
 - 💾 **Memory Management**: Implemented advanced memory management techniques to minimize garbage collection pauses and optimize memory usage.
 
 
@@ -145,7 +144,7 @@ The screen capture functionality in LoL Vision is a critical component that requ
 
 - 🖥️ **Electron's desktopCapturer**: Utilized Electron's built-in `desktopCapturer` module to access screen content.
 - 🎯 **Process-Specific Capture**: Implemented a smart filtering system to identify and capture only the League of Legends window, minimizing unnecessary processing.
-- 🔍 **Adaptive Resolution**: Dynamically adjusts capture resolution based on game window size and available system resources.
+- 🔍 **Efficient Capture**: Captures resolution and can scale based on game window size and available system resources.
 
 Key challenges overcome:
 - ⏱️ Minimizing capture latency while maintaining image quality
