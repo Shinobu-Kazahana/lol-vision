@@ -201,10 +201,6 @@ MIT
 
 ---
 
-<p align="center">
-  <img src="https://your-image-url.com/lol-vision-demo.gif" alt="LoL Vision Demo" width="600"/>
-</p>
-
 LoL Vision represents a fusion of gaming and cutting-edge computer vision technology. By leveraging Electron and Node.js, I've created a high-performance, cross-platform solution that pushes the boundaries of real-time game analysis. The custom-trained model, optimized for League of Legends, demonstrates the power of applied machine learning in enhancing gaming experiences.
 
 Key technical achievements:
