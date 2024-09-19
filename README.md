@@ -15,7 +15,7 @@
 LoL Vision is a computer vision project that seamlessly integrates with League of Legends, providing detection and tracking of player characters. It leverages the power of Electron, Node.js, and machine learning techniques. **It runs much faster, but cannot be seen in GIF format. Click video example then click view raw to see it running smoothly**. If i could improve it I would say it needs to be faster, locally running model can take inputs quickly but the screenshot capture is slow ~700ms and needs to be fixed. 
 
 
-<img src="https://github.com/Shinobu-Kazahana/lol-vision/raw/main/gif.gif" alt="Description of the GIF" width="1000"/>
+<img src="https://github.com/Shinobu-Kazahana/lol-vision/raw/main/gif2.gif" alt="Description of the GIF" width="1000"/>
 
 :video_camera: [Video Example](video.mp4)
 
